@@ -1,4 +1,4 @@
-# Quantitative Backtesting Engine 🚀
+# Quantitative Backtesting Engine 
 
 A professional-grade, event-driven backtesting engine built in Python. This framework is designed to simulate algorithmic trading strategies with high-fidelity execution modeling, including realistic slippage, commissions, and automated data "warm-up" handling.
 
